@@ -36,9 +36,9 @@ cp config.env.example .env
 Создайте файл `.env` со следующими переменными:
 
 ```env
-API_ID=27717201
-API_HASH=f64bbdb83fc622bcc52f2740348457c3
-BOT_TOKEN=8325424545:AAEOUPCJYp0KFjnNUoTwUmzRfOkGt798dQE
+API_ID=
+API_HASH=
+BOT_TOKEN=
 DESTINATION_CHANNEL=@your_target_channel
 ```
 
@@ -59,24 +59,7 @@ DESTINATION_CHANNEL=@your_target_channel
 ## Мониторимые каналы
 
 Бот отслеживает следующие каналы:
-- @docters_smp
-- @onco_beseda
-- @minzdrav_ru
-- @immunobee
-- @PSOmedics
-- @DrButriy
-- @dr_komarovskiy
-- @mediamedics
-- @medach
-- @redcross_ru
-- @oncolya
-- @ru2ch_ban
-- @pornhub_pr
-- @Eric_Davidich_D3
-- @labkovskiy
-- @toplesofficial
-- @naebnet
-- @Wylsared
+
 
 ## Запуск
 
